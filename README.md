@@ -106,7 +106,7 @@ Here is the decoded result: Hello, World!
    ```
 2. Navigate to the project directory:
    ```bash
-   cd caesar-cipher-program-version-1
+   cd Caesar-Cipher-Program-Version-1
    ```
 3. Run the program:
    ```bash
