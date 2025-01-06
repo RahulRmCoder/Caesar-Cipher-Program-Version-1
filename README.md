@@ -125,7 +125,5 @@ Here is the decoded result: Hello, World!
 ## License
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
-Feel free to explore and improve the code. Happy coding!
 
