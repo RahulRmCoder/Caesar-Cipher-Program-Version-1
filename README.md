@@ -102,7 +102,7 @@ Here is the decoded result: Hello, World!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RahulRmCoder/caesar-cipher-program-version-1.git
+   git clone https://github.com/RahulRmCoder/Caesar-Cipher-Program-Version-1.git
    ```
 2. Navigate to the project directory:
    ```bash
